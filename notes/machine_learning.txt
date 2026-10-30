@@ -1,0 +1,3 @@
+Machine learning enables computers to learn from data.
+Supervised learning uses labeled examples, while unsupervised learning finds patterns without labels.
+Common algorithms include linear regression, decision trees, and neural networks.

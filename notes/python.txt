@@ -1,0 +1,3 @@
+Python is a versatile programming language.
+It is used for data analysis, web development, automation, and more.
+Key concepts include variables, loops, functions, and classes.
